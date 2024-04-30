@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">roll dies game</string>
+    <string name="title">Roll Dies Game</string>
+    <string name="computer">Computer</string>
+    <string name="player">Player</string>
+    <string name="playScore">Player Score :</string>
+    <string name="comScore">Computer Score :</string>
+    <string name="button">Roll the Dice🎲🎲</string>
+    <string name="restart">Restart</string>
+</resources>
