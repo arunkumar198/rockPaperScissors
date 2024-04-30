@@ -11,6 +11,7 @@ class MainActivity : AppCompatActivity() {
     var dicePlayer: ImageView? = null
     var diceComputer: ImageView? = null
     var playerScoreNumber: Int = 0
+    var computerScoreNumber: Int =0
     var displayPlayerScore: TextView? = null
     var displayComputerScore: TextView? = null
     var displayWinner: TextView? = null
